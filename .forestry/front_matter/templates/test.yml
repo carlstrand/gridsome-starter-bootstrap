@@ -1,4 +1,11 @@
 ---
 label: Test
 hide_body: false
-fields: []
+fields:
+- name: dfsdfsdf
+  type: blocks
+  label: dfsdfsdf
+  template_types: []
+  config:
+    min: 
+    max: 
